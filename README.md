@@ -1,20 +1,22 @@
-### Hello word! 👋
-
-![Bimo](https://github.com/GitVito/GitVito/blob/main/BimoGit.gif?raw=true)
 
 
+<div align="center">
+  <a href="https://github.com/GitVito">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GitVito&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitVito&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
-<!-- Isto é um comentário
-**GitVito/GitVito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: inline_block" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    
+  ![oie_1622347P6aVwBF0](https://user-images.githubusercontent.com/102964046/202296908-a648d474-8f09-4cb3-bde9-74b0cb62d281.gif)
+
+
+
+
+ 
+ 
+   ![Snake animation](https://github.com/GitVito/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
